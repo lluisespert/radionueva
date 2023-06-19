@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+p {
+    color:red;
+}
+
+p:hover {
+    color: blue;
+}
+
+.redondas {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.redondas:hover{
+    border-style: solid;
+    border-color: red;
+    height: 150px;
+    width: 150px;
+}
+
+.centrarDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

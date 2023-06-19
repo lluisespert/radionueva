@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
     <script type="text/javascrtipt" src="js/bootstrap.min.js"></script>
+    <script id='sonic_js' data-port='8194' src='https://sonic.sistemahost.es/cp/widgets.js?r=460'></script>
+    <script id='sonic_js' data-port='8194' src='https://sonic.sistemahost.es/cp/widgets.js?r=423'></script>
+    <link rel="stylesheet" type="text/css" src="css/config.css">
+    <script type="text/javascript" src="js/functions.js"></script>
 </head>
 <body>
 <div class="container-fluid mt-3">
